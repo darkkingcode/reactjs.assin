@@ -6,8 +6,9 @@ function Home()
         <div className='home-bar'>
             <div className='home-btn'>
                     <div className='para-head'>
-                        <h3>Hi , My name is 'Karthik'</h3>
-                        <h3>I'm the software developer</h3>
+                        <h3>"    Greetings     "</h3>
+                        <h3>I am yashwanth kumar</h3>
+                        <h3>i am an data analyst</h3>
                     </div>
                    
             </div>
