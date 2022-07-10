@@ -13,10 +13,9 @@ function About(){
                 </div>
                 <div>
                     <p className='abt-para'>
-                        Inquisitive, energetic computer science specialist skilled in
-                        leadership, with a strong foundation in math, programming
-                        logic, and cross-platform coding. Seeking to leverage solid
-                        development skills with a focus on collaboration, communication, passion.
+                        Aiming to become the best data scientist and automate all the boring but 
+                        important work by mygood skills in python using all my skills for the company 
+                        and getting better together by learning new things and producing progress
                     </p>
                 </div>
             </div>
