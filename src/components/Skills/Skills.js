@@ -8,12 +8,12 @@ function Skills(){
                {/* <ul className='skill-ul'>
                     <li className='skill-li'>Python</li>
                     <li className='skill-li'>SQL</li>
-                    <li className='skill-li'>C++</li>
+                    <li className='skill-li'>R</li>
                 </ul>
                 <ul className='skill-ul'>
-                    <li className='skill-li'>MS Excel</li>
-                    <li className='skill-li'>Linux OS</li>
-                    <li className='skill-li'>Java</li>
+                    <li className='skill-li'>Excel sheet</li>
+                    <li className='skill-li'>operating system</li>
+                    <li className='skill-li'>tableau</li>
                 </ul>
                 <ul className='skill-ul'>
                     <li className='skill-li'>HTML</li>
@@ -22,10 +22,10 @@ function Skills(){
     </ul> */}
                 <h5 className='skill-li'>SQL</h5>
                 <h5 className='skill-li'>Python</h5>
-                <h5 className='skill-li'>C++</h5>
-                <h5 className='skill-li'>Ms Excel</h5>
-                <h5 className='skill-li'>Linux OS</h5>
-                <h5 className='skill-li'>Java</h5>
+                <h5 className='skill-li'>R</h5>
+                <h5 className='skill-li'>Excel sheet</h5>
+                <h5 className='skill-li'>operating system</h5>
+                <h5 className='skill-li'>tableau</h5>
                 <h5 className='skill-li'>HTML</h5>
                 <h5 className='skill-li'>CSS</h5>
                 <h5 className='skill-li'>JavaScript</h5>
